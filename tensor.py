@@ -1,3 +1,5 @@
+# numpys DO NOT support gradients while pytorch tensors do!
+
 import torch
 import numpy as np
 
